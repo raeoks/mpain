@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+*.iml
+*.pyc
+.cache
+dist
+mpain.egg-info
+.eggs
+build
+*.log
+env
+*.un~
+0/
+tests/.cache
+.coverage
+config.toml
